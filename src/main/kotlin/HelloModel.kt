@@ -1,0 +1,1 @@
+data class HelloModel(val who:String="uorld")
